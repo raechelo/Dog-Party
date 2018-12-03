@@ -65,7 +65,8 @@ p {
   height: 275px;
   text-align: left;
   text-transform: none;
-  padding: 20px;
+  padding-top: 20px;
+  margin-bottom: 15px;
 }
 
 .center-article {
