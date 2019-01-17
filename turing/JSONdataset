@@ -1,0 +1,65 @@
+{
+  "mythology": "Greek",
+  "countryOfOrigin": "Greece",
+  "originDate": "700 B.C.",
+  "deities": [
+    {
+      "name": "Zeus",
+      "godOf": [
+        "Sky",
+        "Thunder"
+      ]
+      "romanName": "Jupiter",
+      "templeLocation": "Statue of Zeus at Olympia",
+      "children": [
+        "Helen of Troy",
+        "Dionysus",
+        "Hebe",
+        "the Muses"
+      ]
+    },
+    {
+      "name": "Poseidon",
+      "godOf": [
+        "Sea"
+        "Earthquakes"
+        "horses"
+      ]
+      "romanName": "Neptune",
+      "templeLocation": "Temple of Poseidon at Sounion"
+      "children": [
+        "Theseus",
+        "Orion",
+        "Atlas",
+        "Polyphemus"
+      ]
+    },
+    {
+      "name": "Athena"
+      "godOf": [
+        "Wisdom",
+        "Warfare",
+        "Crafts"
+      ]
+      "romanName": "Minerva",
+      "templeLocation": "The Parthenon on Athenian Acropolis"
+      "children": []
+    },
+    {
+      "name": "Hermes",
+      "godOf": [
+        "Boundaries",
+        "Theives",
+        "Trade",
+        "Merchants",
+        "Travelers"
+      ]
+      "romanName": "Mercury",
+      "templeLocation": "Mount Cyllene in Arcadia",
+      "children": [
+        "Pan",
+        "Tyche"
+      ]
+    }
+  ]
+}
