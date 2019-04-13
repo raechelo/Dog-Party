@@ -21,12 +21,10 @@ class Answer extends Component {
 
 
   render() {
-    let btns = this.state.allAnswers && this.state.allAnswers.map(a => {
+    let btns = this.state.allAnswers.sort(() => 0.5 - Math.random()).map(a => {
       return (<button value={a}>a</button>)
     })
-    return (
-      {btns}
-    )
+    return (btns)
   }
 }
 
